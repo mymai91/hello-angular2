@@ -126,10 +126,30 @@ To exit, at terminal press button `Ctrl-C `
 In terminal at root folder run. In a few moments
 Yah you will see result in a few moments... Great ^_^
 ```
-live-server
+npm start
 ```
 
 #### This example base on 5 min quickstart on site angular.io hehe but to me, I do it over 5 mins. Anyway,
 It good to me know more.
 
-### Thanks tutorial from Angulario 
+### Thanks tutorial from Angulario
+
+# Clone my code, How to run
+
+## Clone my code
+
+```
+git clone git@github.com:mymai91/hello-angular2.git
+```
+
+## Install packages
+
+```
+npm install
+```
+
+## Run app
+
+```
+npm start
+```
